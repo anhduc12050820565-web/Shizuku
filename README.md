@@ -1,7 +1,3 @@
-# Shizuku
-
-## Background
-
 When developing apps that requires root, the most common method is to run some commands in the su shell. For example, there is an app that uses the `pm enable/disable` command to enable/disable components.
 
 This method has very big disadvantages:
